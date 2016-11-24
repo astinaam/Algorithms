@@ -1,11 +1,14 @@
-#ignore all files/folders
-/*
-#wishlist
-!.gitignore
-!README.md
-!*.cpp
-!*.py
-!*.txt
+# ignore all
+*
+# Wish all extensions
+!*.*
+# Wish al directories
+!*/
+## ignore files with extension
+*.class
+*.sm
+*.o
+
 
 
 
