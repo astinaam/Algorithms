@@ -1,0 +1,11 @@
+#ignore all files/folders
+/*
+#wishlist
+!.gitignore
+!README.md
+!*.cpp
+!*.py
+!*.txt
+
+
+
