@@ -1,2 +1,2 @@
 ## Alogorithm Implementation
-### self cracticing
+### Self practicing
